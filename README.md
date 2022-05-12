@@ -32,7 +32,8 @@ imagem_secundaria_2 (Retorna uma String com a alguma imagem do jogo #2)
 
 imagem_secundaria_3 (Retorna uma String com a alguma imagem do jogo #3)
 
-
+***Exemplo no banco***
+![img](https://lh3.googleusercontent.com/dEuXvxYB4dIStry2Rcpm8vo9SZozc5sqFPwe0sd6Am4fcWssrfu7YwVYnbHkAZ_U1vxj-qMTeByu69S6pC-Ny9pfDrFkHBug_ordx9o48NIVmQ0r0sbEJh9Zxpr07T5zlrTK9EIY58V5Z7E6bA)
 
 ***Endpoints***
 
