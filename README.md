@@ -40,20 +40,16 @@ Retorna jogo por ID
 
 ***EM CONSTRUÇÃO |*** https://the99-games-betaAPI.heroku.com/get-game-id/{ID do jogo}
 
-***EM CONSTRUÇÃO |* ** https://the99-games-betaAPI.heroku.com/get-game-name/{Nome do jogo} 
+***EM CONSTRUÇÃO |*** https://the99-games-betaAPI.heroku.com/get-game-name/{Nome do jogo} 
 
-***EM CONSTRUÇÃO |* ** https://the99-games-betaAPI.heroku.com/get-game-genre/{Gênero dos jogos} 
+***EM CONSTRUÇÃO |*** https://the99-games-betaAPI.heroku.com/get-game-genre/{Gênero dos jogos} 
 
-***EM CONSTRUÇÃO |* ** https://the99-games-betaAPI.heroku.com/get-game-gameplatform/{Pesquisar por plataforma} 
+***EM CONSTRUÇÃO |*** https://the99-games-betaAPI.heroku.com/get-game-gameplatform/{Pesquisar por plataforma} 
 
 
 
 ### ***Exemplos:***
-
 ![image-20220513194837941](https://i.ibb.co/zJLM1rB/imagem-2022-05-13-194856085.png)
-
-
-
 
 
 ### ***Utilização***
@@ -63,15 +59,16 @@ Retorna jogo por ID
 
 
 Qualquer duvida ou sugestão, favor entrar em contato comigo nas seguintes redes:
+
 LinkedIn:https://www.linkedin.com/in/caiosantosportugal/
+
 GitHub:https://github.com/caiosantosp
+
 E-mail: caiosantos.portugal@hotmail.com
 
 
 
 # -- ATENÇÃO --
-
-
 
 ## Ao utilizar a API:
 
