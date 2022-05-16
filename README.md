@@ -9,19 +9,33 @@ Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para
 ### ***Retornos***
 
 **id** (Retorna um <u>Inteiro</u> com o id único do herói) 
+
 **nome_real_heroi** (Retorna uma <u>String</u> com o nome do herói)
+
 **nome_identidade_atual**(Retorna uma <u>String</u> com o nome da identidade atual do herói)
+
 **nome_afiliacao**(Retorna uma <u>String</u> com o nome da principal afiliação do herói)
+
 **principal_base_de_operacoes**(Retorna uma <u>String</u> com a base de operações do herói)
+
 **moralidade**(Retorna uma <u>String</u> com a moralidade do herói)
+
 **nome_cidadania**(Retorna uma <u>String</u> com a cidadania do herói)
+
 **estado_civil**(Retorna uma <u>String</u> com o estado civil do herói)
+
 **ocupacao** (Retorna uma <u>String</u> com a principal ocupação do herói)
+
 **sexo** (Retorna uma <u>String</u> com o sexo do herói)
+
 **altura** (Retorna um <u>Double</u> com a altura do herói) 
+
 **peso** (Retorna um <u>Double</u> com o peso do herói) 
+
 **universo** (Retorna uma <u>String</u> com o universo do herói)
+
 **imagem_principal** (Retorna uma <u>String</u> com o link da imagem de capa do jogo)
+
 **imagem_secundaria_1** (Retorna uma <u>String</u> com a alguma imagem do jogo #1) 
 
 
