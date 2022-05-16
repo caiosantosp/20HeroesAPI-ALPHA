@@ -1,0 +1,101 @@
+Heróis e seus respctivos IDs:
+
+1 Super-Homem
+2 Batman
+3 Homem-Aranha
+4 Wolverine
+5 Mulher Maravilha
+6 Capitão América
+7 Lanterna Verde
+8 Flash
+9 Hulk
+10 Demolidor
+11 Dick Grayson
+12 Homem de Ferro
+13 Jean Grey
+14 Thor
+15 Sandman
+16 Rorschach
+17 Barbara Gordon
+18 O Coisa
+19 James Gordon
+20 Mulher-Gato
+21Spirit
+22 Professor Xavier
+23 Raphael (tartarugas)
+24 Yorick Brown (Y)
+25 Hellboy
+26 Rick Grimes (Walking Dead)
+27 Justiceiro
+28 Monstro do Pântano
+29 John Constantine
+30 Arqueiro Verde
+31 Deadpool
+32 Tim Drake
+33 Nick Fury
+34 Jesse Custer
+35 Judge Dredd
+36 Spawn
+37 O Corvo
+38 Dr. Estranho
+39 Ciclope
+40 Reed Richards
+41 Surfista Prateado
+42 Tempestade
+43 Caçador de Marte
+44 Gavião Arqueiro
+45 Spider Jerusalém (Transmetropolitan)
+46 Tocha Humana
+47 Kitty Pride
+48 Mitchell Hundred (Ex-Machina)
+49 Barry Allen
+50 Capitão Marvel
+51 Pantera Negra
+52 Aquaman
+53 Bucky Barnes
+54 Elijah Snow
+55 John Stewart
+56 Gavião Negro
+57 The Tick
+58 Fera
+59 Gladiador Dourado
+60 Bone
+61 Besouro Azul
+62 Dashiell Bad Horse
+63 Blade
+64 Electron
+65 Gambit
+66 Mulher Invisível
+67 Hank Pym
+68 Punho de Ferro
+69 Scott Pilgrim
+70 Espectro
+71 Wildcat
+72 Luke Cage
+73 Jonah Hex
+74 Viúva Negra
+75 Marv (Sin City)
+76 Rocketeer
+77 Namor
+78 Sargento Rock
+79 Capitão Britânia
+80 Noturno
+81 Canário Negro
+82 Eric O´Grady
+83 Superboy
+84 Ka-Zar
+85 Raio Negro
+86 Michonne (Walking Dead)
+87 Renee Montoya
+88 Mulher Hulk
+89 Cavaleiro da Lua
+90 Motoqueiro Fantasma
+91 Cerebus
+92 Usagi Yojimbo
+93 Donna Troy
+94 Supermoça
+95 Savage Dragon
+96 Falcão
+97 Adam Strange
+98 Nova
+99 Vespa
