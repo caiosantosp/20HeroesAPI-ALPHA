@@ -40,6 +40,7 @@ Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para
 
 
 
+
 ### ***Endpoints***
 
 Retorna jogo por ID
@@ -54,11 +55,13 @@ Retorna jogo por ID
 
 
 
+
 ### ***Exemplos:***
 
 ### ***Utilização***
 
 ### ***Instalação***
+
 
 
 
@@ -69,6 +72,7 @@ LinkedIn:https://www.linkedin.com/in/caiosantosportugal/
 GitHub:https://github.com/caiosantosp
 
 E-mail: caiosantos.portugal@hotmail.com
+
 
 
 
