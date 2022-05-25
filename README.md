@@ -84,3 +84,9 @@ https://herokuapi20heroes.herokuapp.com/GetMethod/GetHeroById/{id}
 #### ***RETORNAR HERÓI POR ID:***
 ###### Para verificar um herói buscando por id, basta utilizar o endpoint ***/GetMethod/GetHeroById/{id}***. Nele você precisa informar o ID do herói que quer encontrar. Se o ID for correspondente a algum ID do banco, será retornado o json com o herói correspondente a esse ID, porém caso seja um valor inválido, irá retornar um ***null***.
 ![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+
+</br>
+
+###### ***LinkedIn:*** https://www.linkedin.com/in/caiosantosportugal/
+###### ***GitHub:*** https://github.com/caiosantosp
+###### ***E-mail:*** caiosantos.portugal@hotmail.com
