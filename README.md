@@ -5,19 +5,33 @@
 
 ## Retornos:
 **id** (Retorna um Inteiro com o id único do herói) 
+
 **nome_real_heroi** (Retorna uma String com o nome do herói)
+
 **nome_identidade_atual**(Retorna uma String com o nome da identidade atual do herói)
+
 **nome_afiliacao**(Retorna uma String com o nome da principal afiliação do herói)
+
 **principal_base_de_operacoes**(Retorna uma String com a base de operações do herói)
+
 **moralidade**(Retorna uma String com a moralidade do herói)
+
 **nome_cidadania**(Retorna uma String com a cidadania do herói)
+
 **estado_civil**(Retorna uma String com o estado civil do herói)
+
 **ocupacao** (Retorna uma String com a principal ocupação do herói)
+
 **sexo** (Retorna uma String com o sexo do herói)
+
 **altura** (Retorna um Double com a altura do herói) 
+
 **peso** (Retorna um Double com o peso do herói) 
+
 **universo** (Retorna uma String com o universo do herói)
+
 **imagem_principal** (Retorna uma String com o link da imagem de capa do jogo)
+
 **imagem_secundaria_1** (Retorna uma String com a alguma imagem do jogo #1)
 
 
