@@ -6,6 +6,7 @@ Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para
 
 
 
+
 ### ***Retornos***
 
 **id** (Retorna um <u>Inteiro</u> com o id único do herói) 
@@ -37,6 +38,7 @@ Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para
 **imagem_principal** (Retorna uma <u>String</u> com o link da imagem de capa do jogo)
 
 **imagem_secundaria_1** (Retorna uma <u>String</u> com a alguma imagem do jogo #1) 
+
 
 
 
