@@ -43,16 +43,28 @@ Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para
 
 ### ***Endpoints***
 
-Retorna jogo por ID
+Retorna todos os heróis:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetAllHeroes
 
-***EM CONSTRUÇÃO |*** https://the99-heroes-betaAPI.heroku.com/get-hero-id/{ID do herói}
 
-***EM CONSTRUÇÃO |*** https://the99-heroes-betaAPI.heroku.com/get-hero-name/{Nome do herói} 
+Retorna herói por nome:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetHeroByName/{name}
 
-***EM CONSTRUÇÃO |*** https://the99-heroes-betaAPI.heroku.com/get-hero-sex/{Gênero do herói} 
 
-***EM CONSTRUÇÃO |*** https://the99-heroes-betaAPI.heroku.com/get-hero-morality/{Pesquisar por moralidade} 
+Retorna herói por genêro:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetHerosByGender/{gender}
 
+
+Retorna herói por cidadania:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetHerosByCitizenship/{citizenship}
+
+
+Retorna herói por universo:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetHerosByUniverse/{universe}
+
+
+Retorna herói por id:
+https://herokuapi20heroes.herokuapp.com/GetMethod/GetHeroById/{id}
 
 
 
