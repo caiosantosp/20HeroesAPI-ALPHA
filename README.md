@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62068883/170252314-fa87246f-51d1-48a6-8bc7-8edf3f0b1262.png" width="42" height="42">
+<img src="https://user-images.githubusercontent.com/62068883/170252314-fa87246f-51d1-48a6-8bc7-8edf3f0b1262.png">
 
 # **Olá, como você está?**
 
