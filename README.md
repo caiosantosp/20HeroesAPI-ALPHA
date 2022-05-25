@@ -1,9 +1,9 @@
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/62068883/170252314-fa87246f-51d1-48a6-8bc7-8edf3f0b1262.png" alt="PokeAPI">
 	</br>
-	# **Bem vindo a API - 20 Heroes**
-</div>  
 
+</div>
+### ***Retornos***
 
 Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para utilização em projetos livres. Está API pode ser usada em projetos escolares ou em aplicações de front-end que consomem API.
 
