@@ -71,6 +71,11 @@ https://herokuapi20heroes.herokuapp.com/GetMethod/GetHeroById/{id}
 
 
 ### ***Exemplos:***
+RETORNAR TODOS OS HERÓIS:
+Para isso acessamos o endpoin de todos os heróis, onde retorna um json contendo todos os heróis disponiveis:
+![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+
+
 
 ### ***Utilização***
 
