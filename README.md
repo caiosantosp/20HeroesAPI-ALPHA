@@ -1,4 +1,4 @@
-# Bem vindo a API - 99 Heroes
+# Bem vindo a API - 20 Heroes
 
 
 ###### Está API tem como objetivo disponibilizar um banco de dados com 99 heróis para utilização em projetos livres. Esta API pode ser usada em projetos escolares ou em aplicações de front-end que consomem API. Até o momento 20 heróis foram adicionados ao projeto. API de uso público.
