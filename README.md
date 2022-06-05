@@ -64,29 +64,30 @@ https://herokuapi20heroes.herokuapp.com/GetMethod/GetHeroById/{id}
 
 #### ***RETORNAR HERÓI POR NOME:***
 ###### Para verificar um heróis buscando por nome, basta utilizar o endpoint ***/GetMethod/GetHeroByName/{name}***. Nele você precisa informar o nome do herói que quer encontrar. Se o nome do herói for correspondente a algum do banco, será retornado o json com os detalhes do herói, porém caso seja um valor inválido, irá retornar um ***null***.
-![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+![byname](https://user-images.githubusercontent.com/62068883/172065214-1a24097c-d649-4f21-86b3-950fcf1fd528.PNG)
 
 
 #### ***RETORNAR HERÓI POR GENÊRO:***
 ###### Para verificar um heróis buscando por genêro, basta utilizar o endpoint ***/GetMethod/GetHerosByGender/{gender}***. Nele você precisa informar o genêro do herói que quer encontrar. Se o nome do genêro for correspondente a algum do banco, será retornado o json com os todos os heróis com esse genêro, porém caso seja um valor inválido, irá retornar um ***null***.
-![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+![bygender](https://user-images.githubusercontent.com/62068883/172065381-caed5a44-a509-4518-a88d-4e962648bdad.PNG)
 
 
 #### ***RETORNAR HERÓI POR CIDADANIA:***
 ###### Para verificar um herói buscando por cidadania, basta utilizar o endpoint ***/GetMethod/GetHerosByCitizenship/{citizenship}***. Nele você precisa informar a cidadania do herói que quer encontrar. Se a cidadania for correspondente a alguma do banco, será retornado o json com os todos os heróis com essa cidadania, porém caso seja um valor inválido, irá retornar um ***null***.
-![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+![byCitizenship](https://user-images.githubusercontent.com/62068883/172065454-156c997f-68ee-49a3-bf22-c2d75d4fdcd3.PNG)
 
 #### ***RETORNAR HERÓI POR UNIVERSO:***
 ###### Para verificar um herói buscando por universo, basta utilizar o endpoint ***/GetMethod/GetHerosByUniverse/{universe}***. Nele você precisa informar o universo do herói que quer encontrar. Se o universo for correspondente a alguma do banco, será retornado o json com os todos os heróis desse universo, porém caso seja um valor inválido, irá retornar um ***null***.
-![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+![byuniverse](https://user-images.githubusercontent.com/62068883/172065558-5df8c38f-87cd-4e36-812c-76a44a3c61f5.PNG)
 
 
 #### ***RETORNAR HERÓI POR ID:***
 ###### Para verificar um herói buscando por id, basta utilizar o endpoint ***/GetMethod/GetHeroById/{id}***. Nele você precisa informar o ID do herói que quer encontrar. Se o ID for correspondente a algum ID do banco, será retornado o json com o herói correspondente a esse ID, porém caso seja um valor inválido, irá retornar um ***null***.
-![allheroes](https://user-images.githubusercontent.com/62068883/170247052-17bf865f-d8ef-4a6c-8372-583ec4cd09b2.PNG)
+![byid](https://user-images.githubusercontent.com/62068883/172065590-82163e3e-a487-4996-8b01-6d5ddca5c209.PNG)
 
 </br>
 
+### Qualquer problema ou duvida entre em contato comigo nas redes abaixo:
 ###### ***LinkedIn:*** https://www.linkedin.com/in/caiosantosportugal/
 ###### ***GitHub:*** https://github.com/caiosantosp
 ###### ***E-mail:*** caiosantos.portugal@hotmail.com
